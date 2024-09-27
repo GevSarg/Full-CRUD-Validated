@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Անահիտ",
+    "email": "anahit@gmail.com",
+    "age": 20
+  },
+  {
+    "id": 2,
+    "name": "Անուշ",
+    "email": "anush@yahoo.com",
+    "age": 24
+  },
+  {
+    "id": 3,
+    "name": "Տիգրան",
+    "email": "tigran@hotmail.com",
+    "age": 20
+  },
+  {
+    "id": 4,
+    "name": "Մարիա",
+    "email": "maria@outlook.com",
+    "age": 27
+  },
+  {
+    "id": 5,
+    "name": "Արամ",
+    "email": "aram@hotmail.com",
+    "age": "d"
+  },
+  {
+    "id": 6,
+    "name": "Նարե",
+    "email": "nare@gmail.com",
+    "age": 15
+  },
+  {
+    "id": 7,
+    "name": "Գևորգ",
+    "email": "gevorg@yahoo.com",
+    "age": 31
+  },
+  {
+    "id": 8,
+    "name": "Սոֆիա",
+    "email": "sofia@gmail.com",
+    "age": 28
+  },
+  {
+    "id": 9,
+    "name": "Վարդան",
+    "email": "vardan@outlook.com",
+    "age": 16
+  },
+  {
+    "id": 10,
+    "name": "Արսեն",
+    "email": "arsen@outlook.com",
+    "age": 16
+  }
+]
